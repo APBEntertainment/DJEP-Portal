@@ -3160,7 +3160,7 @@ form[name="ep_form"][action*="browsemusic.asp"] #add_your_own_song_helper_div in
   min-width: 96px;
 }
 
-#page_eventdetails .djep-eventdetails-card-staff #djep-event_employee_table {
+#page_eventdetails .djep-eventdetails-card-staff #djep-event_djemployee1_role {
   width: calc(100% - 32px) !important;
   margin: 8px 16px 0 !important;
   border-collapse: separate;
@@ -11024,7 +11024,7 @@ body.djep-planningformpage-ready .djep-planningform-save-footer p {
   height: 1px;
 }
 
-#djep-event_employee_table,
+#djep-event_djemployee1_role,
 #djep-stagenamerow,
 #djep-attirerow,
 #djep-enable_notifications_checkbox_label,
@@ -11500,7 +11500,7 @@ body.djep-planningformpage-ready .djep-planningform-save-footer p {
   border-radius: 12px !important;
 }
 
-#page_eventdetails .djep-eventdetails-card-staff #djep-event_employee_table tr {
+#page_eventdetails .djep-eventdetails-card-staff #djep-event_djemployee1_role tr {
   display: flex !important;
   align-items: center !important;
   justify-content: flex-start !important;
@@ -11508,7 +11508,7 @@ body.djep-planningformpage-ready .djep-planningform-save-footer p {
   padding: 12px 14px !important;
 }
 
-#page_eventdetails .djep-eventdetails-card-staff #djep-event_employee_table td {
+#page_eventdetails .djep-eventdetails-card-staff #djep-event_djemployee1_role td {
   width: auto !important;
   padding: 0 !important;
   border: 0 !important;
@@ -11517,11 +11517,11 @@ body.djep-planningformpage-ready .djep-planningform-save-footer p {
   flex: 0 0 auto !important;
 }
 
-#page_eventdetails .djep-eventdetails-card-staff #djep-event_employee_table td:nth-child(2) {
+#page_eventdetails .djep-eventdetails-card-staff #djep-event_djemployee1_role td:nth-child(2) {
   font-weight: 600 !important;
 }
 
-#page_eventdetails .djep-eventdetails-card-staff #djep-event_employee_table td:last-child {
+#page_eventdetails .djep-eventdetails-card-staff #djep-event_djemployee1_role td:last-child {
   color: #475467 !important;
 }
 
