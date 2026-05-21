@@ -11490,7 +11490,7 @@ body.djep-planningformpage-ready .djep-planningform-save-footer p {
 }
 
 /* Event Details: restore original compact Staffing row feel */
-#page_eventdetails .djep-eventdetails-card-staff #djep-event_employee_table {
+#page_eventdetails .djep-eventdetails-card-staff #djep-event_employee1_role {
   width: calc(100% - 36px) !important;
   margin: 10px 18px 0 !important;
   border-collapse: separate !important;
